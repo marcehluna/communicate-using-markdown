@@ -2,4 +2,5 @@
 
 Practicing examples of markdown
 
-## Another header
+## Image
+![I'm Batman](https://github.com/marcehluna/communicate-using-markdown/blob/ab344b21827fc896b7ed349d5636298df73e92e2/batman.png)
